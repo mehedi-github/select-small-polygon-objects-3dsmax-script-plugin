@@ -1,4 +1,4 @@
-Welcome to the select **## small polygon objects in 3dsmax-script-plugin** wiki!
+Welcome to the **# select small polygon objects in 3dsmax-script-plugin** wiki!
 
 ![image](https://github.com/mehedi-github/select-small-polygon-objects--3dsmax-script-plugin/assets/174859242/210db8cd-7447-47cb-882a-d13b5a03aa36)
 
