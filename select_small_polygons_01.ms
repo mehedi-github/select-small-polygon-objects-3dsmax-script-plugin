@@ -5,7 +5,7 @@
 -- free to use tool
 
 clearListener()
-destroyDialog SelPolyMainRollout
+-- destroyDialog SelPolyMainRollout
 
 rollout SelPolyMainRollout "Select Small Polys V1.0" width:200 height:265
 (
